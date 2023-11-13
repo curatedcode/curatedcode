@@ -7,7 +7,6 @@ I have a passion for open source and the amazing things that collaborators have 
 ### Contacts
 
 - [Personal Site](https://zackaryf.net)
-- [LinkedIn](https://www.linkedin.com/in/zackary-fotheringham/)
 
 ### Stats
 
