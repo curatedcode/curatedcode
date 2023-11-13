@@ -2,7 +2,7 @@
 
 - Mostly **TypeScript**, **React**, **Javascript** and dabbling in **C**
   
-I have a passion for open source and the amazing things that collaborators have created. I am currently working on [Applii](https://github.com/curatedcode/applii-tracker), an open-source and feature rich job application tracker. I am also interested in exploring AI/ML in my spare time, as it's awesome to see the incredible advances being made.
+I have a passion for open source and the amazing things that collaborators have created. All though I'm a web dev I've been tinkering with AI/ML in my spare time, as it's awesome to see the incredible advances being made.
 
 ### Contacts
 
